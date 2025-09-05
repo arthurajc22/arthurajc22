@@ -25,10 +25,10 @@ Crio projetos reais enquanto aprendo e compartilho tudo no meu GitHub.
 
 ### 💼 Projetos em Destaque
 
-- [Project Terminal](https://github.com/arthurajc22/project-terminal)  
-  Interface de terminal estilizada com CSS puro.
+- [Cartão de Visita](https://github.com/arthurajc22/project-terminal)  
+  Interface estilizada com CSS puro.
 
-- [Meu primeiro repo](https://github.com/arthurajc22/meu-primeiro-repo)  
+- [Meu primeiro repositório](https://github.com/arthurajc22/meu-primeiro-repo)  
   Primeiros passos com HTML e CSS.
 
 ---
