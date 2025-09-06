@@ -1,4 +1,4 @@
-## Fala, eu sou o Arthur Jefferson 👨‍💻
+## Arthur Jefferson 👨‍💻
 
 Desenvolvedor em formação com foco em Front-End.  
 Trabalho durante o dia e estudo à noite com um único objetivo: transformar minha vida com tecnologia.  
